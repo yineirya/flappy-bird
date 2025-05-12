@@ -11,8 +11,8 @@ A fun and visually soft re-creation of the classic Flappy Bird game, coded from 
 
 ## 💡 Technologies Used
 
-- **HTML5** – for game structure and layout
-- **CSS3** – for styling and background
+- **HTML** – for game structure and layout
+- **CSS** – for styling and background
 - **JavaScript** – for game logic, physics, and interaction
 
 ## 📸 Screenshots
