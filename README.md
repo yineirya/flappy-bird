@@ -17,6 +17,6 @@ A fun and visually soft re-creation of the classic Flappy Bird game, coded from 
 
 ## 📸 Screenshots
 
-| Game Start | Game Over |
-|------------|-----------|
-| ![Game Over](./Screenshot_2025-05-12_at_6.38.33_PM.png) | ![In-Game](./Screenshot_2025-05-12_at_6.38.42_PM.png) |
+|           Game Start           |           Game Over           |
+|--------------------------------|-------------------------------|
+| ![Game Start](./game-start.png) | ![Game Over](./game-over.png) |
